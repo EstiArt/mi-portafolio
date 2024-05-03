@@ -5,7 +5,7 @@ Actualmente está en construcción.
 ## Autor
 Esti S.
 
-[LinkedIn](https://www.linkedin.com/in/midominio/)
+- [LinkedIn](https://www.linkedin.com/in/midominio/)
 
 ## Ver ejemplo en vivo
 - [https://estiart.github.io/mi-portafolio/#inicio](https://estiart.github.io/mi-portafolio/#inicio)
