@@ -1,5 +1,5 @@
 ## Descripción
-Este es un portafolio creado en HTML; CSS y JavaScript.
+Este es un portafolio creado en HTML, CSS y JavaScript.
 Actualmente está en construcción.
 
 ## Autor
